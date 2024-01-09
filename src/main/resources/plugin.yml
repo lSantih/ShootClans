@@ -1,0 +1,6 @@
+name: ShootClans
+version: '${project.version}'
+main: dev.santih.shootclans.ShootClans
+api-version: 1.19
+softdepend:
+  - Multiverse-Core

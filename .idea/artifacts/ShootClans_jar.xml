@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShootClans:jar">
+    <output-path>$USER_HOME$/Desktop/Spigot Development/Servers/paper-1.19.4-527-shoot/plugins</output-path>
+    <root id="archive" name="ShootClans.jar">
+      <element id="module-output" name="ShootClans" />
+      <element id="dir-copy" path="$USER_HOME$/Desktop/Spigot Development/Servers/paper-1.19.4-527/plugins/ShootClans/lib/invapi" />
+    </root>
+  </artifact>
+</component>
